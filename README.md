@@ -1,2 +1,2 @@
-# Sparrow
-Sistema de Eventos
+# Sparrow-Events
+Sistema para inscrições em eventos
